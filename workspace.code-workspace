@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\navaneeth"
+		},
+		{
+			"path": "..\\pubg"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\vscode"
+		},
+		{
+			"path": "..\\discode"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\jus"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Desktop"
+	}
+}
